@@ -6,12 +6,9 @@ public class M {
 		// 一个几把2个蛋
 		System.out.println("this is add later");
 		
-<<<<<<< HEAD
 		cccccccccccccccc
-=======
 		aaaaaaaaaaaa
 		
 		aaaaaaaaaaaaaaa
->>>>>>> dev
 	}
 }
